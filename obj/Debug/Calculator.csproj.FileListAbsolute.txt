@@ -1,0 +1,15 @@
+D:\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\VS_Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.g.cs
+D:\VS_Projects\Calculator\Calculator\obj\Debug\App.g.cs
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.baml
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.g.resources
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\VS_Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
